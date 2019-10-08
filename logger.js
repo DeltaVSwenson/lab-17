@@ -20,7 +20,7 @@ client.on('data', data => {
 client.on('close', () => {
   console.log('Connection closed');
 });
- function handleSave(payload){
+function handleSave(payload){
   console.log(`File ${payload.id} is saved brotha!`);
 
 }

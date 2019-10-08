@@ -9,7 +9,7 @@ const client = new net.Socket();
 const LOGGER_PORT = process.env.LOGGER_PORT || 3001;
 const LOGGER_HOST = process.env.LOGGER_HOST || 'localhost';
 
-client.connect(LOGGER_PORT, LOGGER_HOST, initializeLogger)
+client.connect(LOGGER_PORT, LOGGER_HOST, initializeLogger);
 client.on('error', () => {
   console.warn('she gone');
 });

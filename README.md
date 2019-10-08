@@ -7,7 +7,7 @@ TCP Server / Message Application
 Jacob Swenson
 ### Links and Resources
 * [submission PR](https://github.com/DeltaVSwenson/lab-14/pull/2)
-* [travis](https://travis-ci.com/DeltaVSwenson/lab-14)
+* [travis]()
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
 
