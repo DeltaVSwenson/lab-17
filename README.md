@@ -6,8 +6,8 @@ TCP Server / Message Application
 ### Author: Student/Group Name
 Jacob Swenson
 ### Links and Resources
-* [submission PR](https://github.com/DeltaVSwenson/lab-14/pull/2)
-* [travis]()
+* [submission PR](https://github.com/DeltaVSwenson/lab-17/pull/1)
+* [travis](https://travis-ci.com/DeltaVSwenson/lab-17/builds/131038712)
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
 
