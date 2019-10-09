@@ -2,17 +2,15 @@
 
 const EE = require('./hub');
 
-const net = require('net');
-const client = new net.Socket();
 
+const io = require('socket.io-client');
+const client = io.connect('http://localhost:3001/database');
 
-const LOGGER_PORT = process.env.LOGGER_PORT || 3001;
-const LOGGER_HOST = process.env.LOGGER_HOST || 'localhost';
-
-client.connect(LOGGER_PORT, LOGGER_HOST, initializeLogger);
 client.on('error', () => {
   console.warn('she gone');
 });
+
+initializeLogger();
 
 function initializeLogger() {
   console.log('systems online');
