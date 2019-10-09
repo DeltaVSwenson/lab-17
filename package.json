@@ -1,0 +1,30 @@
+{
+  "name": "events-lab",
+  "version": "1.0.0",
+  "description": "Events Lab",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "start": "node server.js",
+    "lint": "eslint '**/*.js'"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^6.5.1",
+    "socket.io": "^2.3.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeltaVSwenson/lab-17.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/DeltaVSwenson/lab-17/issues"
+  },
+  "homepage": "https://github.com/DeltaVSwenson/lab-17#readme"
+}
