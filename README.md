@@ -1,13 +1,13 @@
-# lab-17
-# LAB - 
+
+# LAB - 18
 
 ## Project Name
-TCP Server / Message Application
+Socket.io
 ### Author: Student/Group Name
 Jacob Swenson
 ### Links and Resources
-* [submission PR](https://github.com/DeltaVSwenson/lab-17/pull/1)
-* [travis](https://travis-ci.com/DeltaVSwenson/lab-17/builds/131038712)
+* [submission PR](https://github.com/DeltaVSwenson/lab-17/pull/2)
+* [travis](https://travis-ci.com/DeltaVSwenson/lab-17/builds/131200367)
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
 
